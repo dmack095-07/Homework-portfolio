@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1f0fd9c.chunk.css",
+    "main.js": "/static/js/main.173baca2.chunk.js",
+    "main.js.map": "/static/js/main.173baca2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df18c921.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df18c921.js.map",
+    "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
+    "static/js/2.58ab72ee.chunk.js": "/static/js/2.58ab72ee.chunk.js",
+    "static/js/2.58ab72ee.chunk.js.map": "/static/js/2.58ab72ee.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.a1f0fd9c.chunk.css.map": "/static/css/main.a1f0fd9c.chunk.css.map",
+    "static/js/2.58ab72ee.chunk.js.LICENSE.txt": "/static/js/2.58ab72ee.chunk.js.LICENSE.txt",
+    "static/media/Calendar.20a08646.png": "/static/media/Calendar.20a08646.png",
+    "static/media/Note.a3d1ae1d.png": "/static/media/Note.a3d1ae1d.png",
+    "static/media/Project1.bd26c83f.png": "/static/media/Project1.bd26c83f.png",
+    "static/media/Project2.579dd12d.png": "/static/media/Project2.579dd12d.png",
+    "static/media/Team.2a94cabc.png": "/static/media/Team.2a94cabc.png",
+    "static/media/employee.9902eda1.png": "/static/media/employee.9902eda1.png",
+    "static/media/selfie.55bad043.jpg": "/static/media/selfie.55bad043.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df18c921.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.58ab72ee.chunk.js",
+    "static/css/main.a1f0fd9c.chunk.css",
+    "static/js/main.173baca2.chunk.js"
+  ]
+}
